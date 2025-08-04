@@ -8,8 +8,8 @@
   <p align="center">
     简约高颜值的音乐播放器
     <br />
-    <a href="https://ymsv2.top/" target="blank"><strong>🌎 访问官网</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=dN8bUtQ_IZi0RcyWibFc6oqQlycidxE9&jump_from=webapi&authKey=GhAAMh0TGiVeaEXlOjEtqUAM/vqDLwaQ0MBNMLXvONrAIBCVRdAfrwiFAdp3GLxD" target="blank"><strong>💬 加入交流群</strong></a>
+    <a href="https://ymsv2.top/" target="_blank"><strong>🌎 访问官网</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=dN8bUtQ_IZi0RcyWibFc6oqQlycidxE9&jump_from=webapi&authKey=GhAAMh0TGiVeaEXlOjEtqUAM/vqDLwaQ0MBNMLXvONrAIBCVRdAfrwiFAdp3GLxD" target="_blank"><strong>💬 加入交流群</strong></a>
     <br />
     <br />
   </p>
@@ -29,7 +29,7 @@
 
 ### V1 · 本仓库（初版）  
 V1 使用 Vue 3 + Electron 开发，包括：
-- 基于 网易云音乐 API 的在线歌曲搜索与播放  
+- 基于 NeteaseCloudMusicApi
 - 歌词逐句锁定与翻译功能  
 - MV 支持与实时频谱可视化  
 - 简易主题切换（暗／亮／莫兰迪色系）
