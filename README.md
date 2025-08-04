@@ -9,7 +9,7 @@
     简约高颜值的音乐播放器
     <br />
     <a href="https://ymsv2.top/" target="blank"><strong>🌎 访问官网</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="https://t.me/yesplaymusic" target="blank"><strong>💬 加入交流群</strong></a>
+    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=dN8bUtQ_IZi0RcyWibFc6oqQlycidxE9&jump_from=webapi&authKey=GhAAMh0TGiVeaEXlOjEtqUAM/vqDLwaQ0MBNMLXvONrAIBCVRdAfrwiFAdp3GLxD" target="blank"><strong>💬 加入交流群</strong></a>
     <br />
     <br />
   </p>
