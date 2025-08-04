@@ -17,7 +17,7 @@
 
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-[![GitHub stars](https://img.shields.io/github/stars/kiko-love/your-music-station-v1.svg)](https://github.com/kikolove/yourmusicstation-v1)
+[![GitHub stars](https://img.shields.io/github/stars/kiko-love/YourMusicStation.svg)](https://github.com/kikolove/yourmusicstation-v1)
 
 
 # 🎵 YourMusicStation  
