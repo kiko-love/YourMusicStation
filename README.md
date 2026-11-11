@@ -12,7 +12,7 @@
     <a href="https://ymsv2.top/views/download/"><strong>下载</strong></a> ·
     <a href="https://github.com/kiko-love/YourMusicStation/releases"><strong>Releases</strong></a> ·
     <a href="https://ymsv2.top/views/changelog/"><strong>更新日志</strong></a> ·
-    <a href="https://txc.qq.com/products/634166"><strong>反馈</strong></a>
+    <a href="https://github.com/kiko-love/YourMusicStation/issues"><strong>反馈</strong></a>
   </p>
 
   <p>
@@ -69,7 +69,6 @@ YourMusicStation（YMS）是一款面向中文音乐用户的 Windows 桌面播�
 
 ## 💬 社区与反馈
 
-- 产品区反馈：[兔小巢](https://txc.qq.com/products/634166)
 - GitHub Issues：[kiko-love/YourMusicStation/issues](https://github.com/kiko-love/YourMusicStation/issues)
 - QQ 交流群：`376047513` / `763036486` / `1019733982`
 - 内测群：`971409447`
